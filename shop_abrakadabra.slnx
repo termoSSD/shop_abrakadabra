@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="shop_abrakadabra/shop_abrakadabra.vcxproj" />
+</Solution>
