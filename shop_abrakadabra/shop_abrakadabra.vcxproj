@@ -132,6 +132,9 @@
   <ItemGroup>
     <ClInclude Include="shop.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="cheque.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
